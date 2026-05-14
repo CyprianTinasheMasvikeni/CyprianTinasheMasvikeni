@@ -33,7 +33,7 @@ Data Scientist building healthcare tools and algorithmic trading systems.
 Full-stack platform for managing MSc research fellows at THRU Zimbabwe. Fellows track tasks, presentations, meetings, and milestones. Admins oversee the full cohort.
 
 **Stack:** Flask · React 18 · SQLAlchemy · TailwindCSS · Gunicorn · Nginx  
-**Live:** [thruzim.duckdns.org](http://thruzim.duckdns.org) · [Repo](https://github.com/CypTynash/thru-fellowship)
+**Live:** [thruzim.duckdns.org](http://thruzim.duckdns.org) · [Repo](https://github.com/CyprianTinasheMasvikeni/thru-fellowship)
 
 ---
 
@@ -41,13 +41,13 @@ Full-stack platform for managing MSc research fellows at THRU Zimbabwe. Fellows 
 Algorithmic trading system for XAU/USD and Deriv synthetic indices. EMA + ATR multi-timeframe strategy with chandelier exit tiers. Includes live Streamlit dashboard, backtesting engine, and parameter sensitivity tools.
 
 **Stack:** Python · WebSockets · pandas · NumPy · Streamlit · Plotly  
-**Repo:** [hypothermia-bot](https://github.com/CypTynash/hypothermia-bot)
+**Repo:** [hypothermia-bot](https://github.com/CyprianTinasheMasvikeni/hypothermia-bot)
 
 ---
 
 ## GitHub Stats
 
-![CypTynash GitHub stats](https://github-readme-stats.vercel.app/api?username=CypTynash&show_icons=true&theme=default&hide_border=true&count_private=true)
+![CyprianTinasheMasvikeni GitHub stats](https://github-readme-stats.vercel.app/api?username=CyprianTinasheMasvikeni&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
