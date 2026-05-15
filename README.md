@@ -1,6 +1,6 @@
 # Hi, I'm Cyprian
 
-Data Scientist building healthcare tools and algorithmic trading systems.
+Data Scientist | Epidemiologist | Full-Stack Developer building healthcare tools and algorithmic trading systems.
 
 ---
 
@@ -29,6 +29,13 @@ Data Scientist building healthcare tools and algorithmic trading systems.
 
 ## Featured Projects
 
+### Personal CV & Portfolio
+A live CV showcasing my background in epidemiology, data science, and software development — built and self-hosted.
+
+**Live:** [cyprianmasvikeni.duckdns.org](https://cyprianmasvikeni.duckdns.org)
+
+---
+
 ### THRU Zim MSc Fellowship Platform
 Full-stack platform for managing MSc research fellows at THRU Zimbabwe. Fellows track tasks, presentations, meetings, and milestones. Admins oversee the full cohort.
 
@@ -51,4 +58,12 @@ Algorithmic trading system for XAU/USD and Deriv synthetic indices. EMA + ATR mu
 
 ---
 
-*Open to collaboration on healthcare tech, data science, and quantitative tools.*
+## Get In Touch
+
+If you need a **data scientist**, **epidemiologist**, or **full-stack developer** — or just want to collaborate on something interesting — I'd love to hear from you.
+
+> **Email:** tynashmasvikeni@gmail.com  
+> **CV:** [cyprianmasvikeni.duckdns.org](https://cyprianmasvikeni.duckdns.org)  
+> **LinkedIn:** [linkedin.com/in/cyprian-masvikeni](https://www.linkedin.com/in/cyprian-masvikeni)
+
+*Open to freelance work, research collaborations, and full-time opportunities.*
