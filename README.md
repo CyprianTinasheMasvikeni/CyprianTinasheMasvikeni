@@ -101,11 +101,29 @@
 
 ### Hypothermia Trading Bot
 
-> Algorithmic trading system for XAU/USD and Deriv synthetic indices. EMA + ATR multi-timeframe strategy with chandelier exit tiers. Includes live Streamlit dashboard, backtesting engine, and parameter sensitivity tools.
+> Algorithmic trading system for XAU/USD, EUR/USD, GBP/USD and USD/JPY. M5 EMA Pullback + H1 Trend Filter strategy with Chandelier Exit tiers. 53.6% win rate, 1.89 profit factor across 1,322 backtested trades. Includes live Streamlit dashboard, Monte Carlo simulation, and statistical significance testing.
 
-**Stack:** Python · WebSockets · pandas · NumPy · Streamlit · Plotly
+**Stack:** Python · WebSockets · pandas · NumPy · Streamlit · Plotly · Deriv API
 
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](http://92.4.135.209:8501)
 [![Repo](https://img.shields.io/badge/Repo-hypothermia--bot-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CyprianTinasheMasvikeni/hypothermia-bot)
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/hypothermia-bot/main/screenshots/dashboard.png" width="390" alt="Live Dashboard"/></td>
+    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/hypothermia-bot/main/screenshots/backtest.png" width="390" alt="Backtest Results"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Live trading dashboard</sub></td>
+    <td align="center"><sub>Backtesting results & statistics</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/hypothermia-bot/main/screenshots/strategies.png" width="800" alt="Multi-strategy overview"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub>Multi-symbol strategy comparison</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -118,6 +136,19 @@
 [![Live](https://img.shields.io/badge/Live-aquabank-00d4aa?style=flat-square&logo=googlechrome&logoColor=white)](http://92.4.135.209/aquabank)
 [![Repo](https://img.shields.io/badge/Repo-aqua--bank-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CyprianTinasheMasvikeni/aqua-bank)
 
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/aqua-bank/main/screenshots/pin.png" width="220" alt="PIN Lock Screen"/></td>
+    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/aqua-bank/main/screenshots/dashboard.png" width="220" alt="Dashboard"/></td>
+    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/aqua-bank/main/screenshots/withdraw.png" width="220" alt="Withdrawal Friction"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>PIN lock screen</sub></td>
+    <td align="center"><sub>Balance & progress</sub></td>
+    <td align="center"><sub>30-word withdrawal friction</sub></td>
+  </tr>
+</table>
+
 ---
 
 ### Personal CV & Portfolio
@@ -125,6 +156,8 @@
 > Live CV showcasing my background in epidemiology, data science, and software development — built and self-hosted on Oracle Cloud.
 
 [![Live](https://img.shields.io/badge/Live-cyprianmasvikeni.duckdns.org-FF6B6B?style=flat-square&logo=googlechrome&logoColor=white)](https://cyprianmasvikeni.duckdns.org)
+
+![Portfolio](https://raw.githubusercontent.com/CyprianTinasheMasvikeni/CyprianTinasheMasvikeni/main/portfolio.png)
 
 ---
 
