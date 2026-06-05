@@ -105,7 +105,6 @@
 
 **Stack:** Python · WebSockets · pandas · NumPy · Streamlit · Plotly · Deriv API
 
-[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](http://92.4.135.209:8501)
 [![Repo](https://img.shields.io/badge/Repo-hypothermia--bot-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CyprianTinasheMasvikeni/hypothermia-bot)
 
 <table>
@@ -133,7 +132,6 @@
 
 **Stack:** Vanilla JS · PWA · Service Worker · localStorage · Self-hosted on Oracle Cloud
 
-[![Live](https://img.shields.io/badge/Live-aquabank-00d4aa?style=flat-square&logo=googlechrome&logoColor=white)](http://92.4.135.209/aquabank)
 [![Repo](https://img.shields.io/badge/Repo-aqua--bank-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CyprianTinasheMasvikeni/aqua-bank)
 
 <table>
