@@ -12,6 +12,7 @@
 
 ## What I Build
 
+- **AI Health Tools** — WhatsApp chatbots and AI-powered health information systems for underserved communities
 - **Research Platforms** — full-stack web apps that solve real workflow problems in clinical and academic settings
 - **Trading Systems** — algorithmic bots with quantitative strategies, backtesting engines, and live dashboards
 - **Data Science Tools** — analysis pipelines, risk models, and exploratory research
@@ -22,6 +23,7 @@
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -37,6 +39,31 @@
 ---
 
 ## Featured Projects
+
+### Shanduko AI — WhatsApp SRH Chatbot
+
+> Free 24/7 sexual and reproductive health assistant for young people in Zimbabwe, delivered over WhatsApp. *"Shanduko"* means **change** in Shona. Originally pitched at the **Imperial College London AI Health Innovation Workshop 2025** — now fully deployed and live.
+
+**Stack:** FastAPI · Groq LLaMA 3.3 70B · Meta WhatsApp Cloud API · SQLite · Oracle Cloud · Nginx
+
+[![Live Bot](https://img.shields.io/badge/WhatsApp%20Bot-Live%20Now-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/263714717274)
+[![Repo](https://img.shields.io/badge/Repo-shanduko--ai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CyprianTinasheMasvikeni/shanduko-ai)
+[![Privacy Policy](https://img.shields.io/badge/Privacy%20Policy-Live-00d4aa?style=flat-square&logo=googlechrome&logoColor=white)](https://cypriantinashemasvikeni.github.io/shanduko-ai/privacy.html)
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/shanduko-ai/main/screenshots/conversation.png" width="200" alt="WhatsApp Conversation"/></td>
+    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/shanduko-ai/main/screenshots/architecture.png" width="370" alt="Architecture"/></td>
+    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/shanduko-ai/main/screenshots/logo.png" width="150" alt="Logo"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Live WhatsApp chat</sub></td>
+    <td align="center"><sub>System architecture</sub></td>
+    <td align="center"><sub>Brand</sub></td>
+  </tr>
+</table>
+
+---
 
 ### THRU Zim MSc Fellowship Platform
 
