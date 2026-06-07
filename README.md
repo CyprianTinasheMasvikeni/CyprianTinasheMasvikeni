@@ -52,9 +52,9 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/shanduko-ai/main/screenshots/conversation.png" width="200" alt="WhatsApp Conversation"/></td>
-    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/shanduko-ai/main/screenshots/architecture.png" width="370" alt="Architecture"/></td>
-    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/shanduko-ai/main/screenshots/logo.png" width="150" alt="Logo"/></td>
+    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/CyprianTinasheMasvikeni/main/shanduko-screenshots/conversation.png" width="200" alt="WhatsApp Conversation"/></td>
+    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/CyprianTinasheMasvikeni/main/shanduko-screenshots/architecture.png" width="370" alt="Architecture"/></td>
+    <td><img src="https://raw.githubusercontent.com/CyprianTinasheMasvikeni/CyprianTinasheMasvikeni/main/shanduko-screenshots/logo.png" width="150" alt="Logo"/></td>
   </tr>
   <tr>
     <td align="center"><sub>Live WhatsApp chat</sub></td>
